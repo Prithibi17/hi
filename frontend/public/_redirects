@@ -1,0 +1,3 @@
+# Netlify SPA Routing Support
+# Redirect all routes to index.html for SPA - this must be the last line with no prefix
+/* /index.html 200
