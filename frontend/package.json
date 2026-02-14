@@ -2,6 +2,7 @@
   "name": "onehive-frontend",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://prithibi17.github.io/hi",
   "dependencies": {
     "@react-google-maps/api": "^2.19.2",
     "axios": "^1.6.7",
